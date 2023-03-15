@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DTDA.cif"]
+	path = DTDA.cif
+	url = https://github.com/sidoruvigo/dtda.cif
+	shallow = true
+	registered = true
 [submodule "DTDA.ni"]
 	path = DTDA.ni
 	url = https://github.com/sidoruvigo/dtda.ni

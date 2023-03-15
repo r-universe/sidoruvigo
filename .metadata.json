@@ -1,5 +1,9 @@
 [
   {
+    "package": "DTDA.cif",
+    "oncran": true
+  },
+  {
     "package": "DTDA.ni",
     "oncran": true
   }
